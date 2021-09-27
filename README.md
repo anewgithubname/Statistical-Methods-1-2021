@@ -21,17 +21,20 @@ Find more on
 [Probabilistic Graphical Models Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models), Daphne Koller and Nir Friedman, MIT Press, 2009. 
   - Read chapter 3 and 4.
 
+------
 ## Syllabus 
 
 **Week 1**
   1. Decision Making: An Introduction
 
 - [Slides](lec1/intro.pdf); [Slides with notes](lec1/intro_notes.pdf)
-
+----
 ## Support
 Post your questions on Blackboard.
 
 **Office hour**: Tuesday afternoon, 2pm-3pm. 
+
+----
 
 [Blackboard Forum](https://www.ole.bris.ac.uk/webapps/discussionboard/do/conference?toggle_mode=edit&action=list_forums&course_id=_246601_1&nav=discussion_board_entry&mode=cpview)
 
