@@ -31,6 +31,7 @@ Week 1
 ## Support
 Post your questions on Blackboard.
 
-Office hour: TBA
+Office hour: Tuesday afternoon, 2pm-3pm. 
+[Blackboard Forum](https://www.ole.bris.ac.uk/webapps/discussionboard/do/conference?toggle_mode=edit&action=list_forums&course_id=_246601_1&nav=discussion_board_entry&mode=cpview)
 
 ## [Assessment Plan](SM1_assessment.md)
