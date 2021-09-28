@@ -28,6 +28,11 @@ Find more on
   1. Decision Making: An Introduction
 
 - [Slides](lec1/intro.pdf); [Slides with notes](lec1/intro_notes.pdf)
+
+2. Regression: Overfitting and Curse of Dimensionality
+
+- [Slides](lec2/of_cod2.pdf); [Slides with notes](lec2/of_cod2_note.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
