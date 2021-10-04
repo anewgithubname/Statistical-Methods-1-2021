@@ -24,14 +24,19 @@ Find more on
 ------
 ## Syllabus 
 
-**Week 1**
-  1. Decision Making: An Introduction
+Week 1
+1. Decision Making: An Introduction
 
 - [Slides](lec1/intro.pdf); [Slides with notes](lec1/intro_notes.pdf)
 
 2. Regression: Overfitting and Curse of Dimensionality
 
 - [Slides](lec2/of_cod2.pdf); [Slides with notes](lec2/of_cod2_note.pdf)
+
+**Week 2**
+3. Regression: A Probabilistic View
+
+- [Slides](lec3/prob_reg.pdf); [Slides with notes](lec3/prob_reg_note.pdf)
 
 ----
 ## Support
