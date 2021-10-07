@@ -39,6 +39,10 @@ Week 1
 
 - [Slides](lec3/prob_reg.pdf); [Slides with notes](lec3/prob_reg_note.pdf)
 
+4. Risks and Bayes Optimal Prediction
+
+- [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_note.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
