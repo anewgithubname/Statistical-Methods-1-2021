@@ -28,6 +28,7 @@ Week 1
 1. Decision Making: An Introduction
 
 - [Slides](lec1/intro.pdf); [Slides with notes](lec1/intro_notes.pdf)
+- [Proof of Decomposition using IID](lec1/proof.pdf)
 
 2. Regression: Overfitting and Curse of Dimensionality
 
@@ -38,10 +39,12 @@ Week 1
 3. Regression: A Probabilistic View
 
 - [Slides](lec3/prob_reg.pdf); [Slides with notes](lec3/prob_reg_note.pdf)
+- [Proof of Full Bayesian Approach](lec3/Proof3.pdf)
 
 4. Risks and Bayes Optimal Prediction
 
 - [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_note.pdf)
+- [Proof of Bayes Optimal Predictor](lec4/decisionboundary_completesqurare.pdf); [Proof of Optimal Predictions](lec4/proofs.png)
 
 ----
 ## Support
