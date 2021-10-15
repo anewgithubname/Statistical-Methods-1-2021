@@ -34,7 +34,7 @@ Week 1
 
 - [Slides](lec2/of_cod2.pdf); [Slides with notes](lec2/of_cod2_note.pdf)
 
-**Week 2**
+Week 2
 
 3. Regression: A Probabilistic View
 
@@ -45,6 +45,13 @@ Week 1
 
 - [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_note.pdf)
 - [Proof of Bayes Optimal Predictor](lec4/decisionboundary_completesqurare.pdf); [Proof of Optimal Predictions](lec4/proofs.png)
+
+**Week 3**
+
+[Summary](lec5_6/summary.pdf)
+
+[Computing Lab](lec5_6/cl.pdf)
+
 
 ----
 ## Support
