@@ -48,7 +48,7 @@ Week 2
 
 **Week 3**
 
--[Summary](lec5_6/summary.pdf); [Computing Lab](lec5_6/cl.pdf); [Proof of 95% Confidence Region](lec5_6/nightyfive.pdf).
+- [Summary](lec5_6/summary.pdf); [Computing Lab](lec5_6/cl.pdf); [Proof of 95% Confidence Region](lec5_6/nightyfive.pdf).
 
 
 ----
