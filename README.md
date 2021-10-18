@@ -52,6 +52,7 @@ Week 3
 
 Week 4
 
+Bias and Variance Decomposition
 - [Slides](lec7/bv_decomposition.pdf); [Slides with notes](lec7/bv_decomposition_note.pdf)
 
 
