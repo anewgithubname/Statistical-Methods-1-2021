@@ -46,9 +46,13 @@ Week 2
 - [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_note.pdf)
 - [Proof of Bayes Optimal Predictor](lec4/decisionboundary_completesqurare.pdf); [Proof of Optimal Predictions](lec4/proofs.png)
 
-**Week 3**
+Week 3
 
 - [Summary](lec5_6/summary.pdf); [Computing Lab](lec5_6/cl.pdf); [Proof of 95% Confidence Region](lec5_6/nightyfive.pdf).
+
+Week 4
+
+- [Slides](lec7/bv_decomposition); [Slides with notes](lec7/bv_decomposition_note.pdf)
 
 
 ----
