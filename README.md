@@ -52,7 +52,7 @@ Week 3
 
 Week 4
 
-- [Slides](lec7/bv_decomposition); [Slides with notes](lec7/bv_decomposition_note.pdf)
+- [Slides](lec7/bv_decomposition.pdf); [Slides with notes](lec7/bv_decomposition_note.pdf)
 
 
 ----
