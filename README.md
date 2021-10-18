@@ -50,7 +50,7 @@ Week 3
 
 - [Summary](lec5_6/summary.pdf); [Computing Lab](lec5_6/cl.pdf); [Proof of 95% Confidence Region](lec5_6/nightyfive.pdf).
 
-Week 4
+**Week 4***
 
 Bias and Variance Decomposition
 - [Slides](lec7/bv_decomposition.pdf); [Slides with notes](lec7/bv_decomposition_note.pdf)
