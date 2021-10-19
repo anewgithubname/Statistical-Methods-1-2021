@@ -57,7 +57,7 @@ Gaussian Identities
 **Week 4**
 
 Bias and Variance Decomposition
-- [Slides](lec7/bv_decomposition.pdf); [Slides with notes](lec7/bv_decomposition_note.pdf)
+- [Slides](lec7/bv_decomposition.pdf); [Slides with notes](lec7/bv_decomposition_note.pdf); [2 extra questions](lec7/2q.pdf)
 
 Feature Transform and Kernel Methods
 - [Slides](lec8/ft_km.pdf)
