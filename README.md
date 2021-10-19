@@ -59,6 +59,8 @@ Gaussian Identities
 Bias and Variance Decomposition
 - [Slides](lec7/bv_decomposition.pdf); [Slides with notes](lec7/bv_decomposition_note.pdf)
 
+Feature Transform and Kernel Methods
+- [Slides](lec8/ft_km.pdf)
 
 ----
 ## Support
