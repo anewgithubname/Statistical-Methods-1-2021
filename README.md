@@ -54,13 +54,17 @@ Gaussian Identities
 - [Computing Lab](lec5_6/cl.pdf); 
 - [Proof of 95% Confidence Region](lec5_6/nightyfive.pdf). 
 
-**Week 4**
+Week 4
 
 Bias and Variance Decomposition
 - [Slides](lec7/bv_decomposition.pdf); [Slides with notes](lec7/bv_decomposition_note.pdf); [2 extra questions](lec7/2q.pdf)
 
 Feature Transform and Kernel Methods
 - [Slides](lec8/ft_km.pdf)
+
+**Week 5**
+Probabilistic Model Selection 
+- [Slides](lec9/mosel.pdf)
 
 ----
 ## Support
