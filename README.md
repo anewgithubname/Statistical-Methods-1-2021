@@ -65,9 +65,13 @@ Bias and Variance Decomposition
 Feature Transform and Kernel Methods
 - [Slides](lec8/ft_km.pdf)
 
-**Week 5**
+Week 5
 Probabilistic Model Selection 
 - [Slides](lec9/mosel.pdf)
+
+**Week 6**
+Linear Classifier
+- [Slides](lec10/linearclassifier.pdf)
 
 ----
 ## Support
