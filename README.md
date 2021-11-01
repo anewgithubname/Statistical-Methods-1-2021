@@ -27,51 +27,53 @@ Find more on
 Week 1
 1. Decision Making: An Introduction
 
-- [Slides](lec1/intro.pdf); [Slides with notes](lec1/intro_notes.pdf)
-- [Proof of Decomposition using IID](lec1/proof.pdf)
+   - [Slides](lec1/intro.pdf); [Slides with notes](lec1/intro_notes.pdf)
+   - [Proof of Decomposition using IID](lec1/proof.pdf)
 
 2. Regression: Overfitting and Curse of Dimensionality
 
-- [Slides](lec2/of_cod2.pdf); [Slides with notes](lec2/of_cod2_note.pdf)
+   - [Slides](lec2/of_cod2.pdf); [Slides with notes](lec2/of_cod2_note.pdf)
 
 Week 2
 
 3. Regression: A Probabilistic View
 
-- [Slides](lec3/prob_reg.pdf); [Slides with notes](lec3/prob_reg_note.pdf)
-- [Proof of Full Bayesian Approach](lec3/Proof3.pdf)
+   - [Slides](lec3/prob_reg.pdf); [Slides with notes](lec3/prob_reg_note.pdf)
+   - [Proof of Full Bayesian Approach](lec3/Proof3.pdf)
 
 4. Risks and Bayes Optimal Prediction
 
-- [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_note.pdf)
-- [Proof of Bayes Optimal Predictor](lec4/decisionboundary_completesqurare.pdf); [Proof of Optimal Predictions](lec4/proofs.png)
+   - [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_note.pdf)
+   - [Proof of Bayes Optimal Predictor](lec4/decisionboundary_completesqurare.pdf); [Proof of Optimal Predictions](lec4/proofs.png)
 
 Week 3
 
-Gaussian Identities
-- [Handwritten Notes](lec5_6/handwritten_notes.pdf)
-- [Summary](lec5_6/summary.pdf); 
-- [Computing Lab](lec5_6/cl.pdf); 
-- [Proof of 95% Confidence Region](lec5_6/nightyfive.pdf). 
+5. Gaussian Identities
+   - [Handwritten Notes](lec5_6/handwritten_notes.pdf)
+   - [Summary](lec5_6/summary.pdf); 
+   - [Computing Lab](lec5_6/cl.pdf); 
+   - [Proof of 95% Confidence Region](lec5_6/nightyfive.pdf). 
 
 Week 4
 
-Bias and Variance Decomposition
-- [Slides](lec7/bv_decomposition.pdf); 
-- [Slides with notes](lec7/bv_decomposition_note.pdf); 
-- [2 extra questions](lec7/2q.pdf)
-- [proofs of extra questions](lec7/corollaries.pdf)
+6. Bias and Variance Decomposition
+   - [Slides](lec7/bv_decomposition.pdf); 
+   - [Slides with notes](lec7/bv_decomposition_note.pdf); 
+   - [2 extra questions](lec7/2q.pdf)
+   - [proofs of extra questions](lec7/corollaries.pdf)
   
-Feature Transform and Kernel Methods
-- [Slides](lec8/ft_km.pdf)
+7. Feature Transform and Kernel Methods
+   - [Slides](lec8/ft_km.pdf)
 
 Week 5
-Probabilistic Model Selection 
-- [Slides](lec9/mosel.pdf)
+
+   8. Probabilistic Model Selection 
+      - [Slides](lec9/mosel.pdf)
 
 **Week 6**
-Linear Classifier
-- [Slides](lec10/linearclassifier.pdf)
+
+  9. Linear Classifier
+      - [Slides](lec10/linearclassifier.pdf)
 
 ----
 ## Support
