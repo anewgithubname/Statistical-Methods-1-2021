@@ -74,6 +74,8 @@ Week 5
 
   9. Linear Classifier
       - [Slides](lec10/linearclassifier.pdf)
+  10. Discriminative Classifier
+      - [Slides](lec11/disc.pdf)
 
 ----
 ## Support
