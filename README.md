@@ -77,7 +77,7 @@ Week 5
       - [Slides](lec10/linearclassifier.pdf)
   10. Discriminative Classifier
       - [Slides](lec11/disc.pdf)
-      - [Computing Lab](lec11/perceptron.pdf), [Video](lec11/perceptron.mp4)
+      - [Computing Lab](lec11/perceptron.pdf), [Video](lec11/perceptron.mp4), [MATLAB](lec11/demo_perceptron.m)
 
 ----
 ## Support
