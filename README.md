@@ -64,6 +64,7 @@ Week 4
   
 7. Feature Transform and Kernel Methods
    - [Slides](lec8/ft_km.pdf)
+   - [Induced Kernel](lec8/inducedkernel.pdf)
 
 Week 5
 
