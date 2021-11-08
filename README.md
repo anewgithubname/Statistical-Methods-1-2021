@@ -71,13 +71,17 @@ Week 5
    8. Probabilistic Model Selection 
       - [Slides](lec9/mosel.pdf)
 
-**Week 6**
+Week 6
 
   9. Linear Classifier
       - [Slides](lec10/linearclassifier.pdf)
   10. Discriminative Classifier
       - [Slides](lec11/disc.pdf)
       - [Computing Lab](lec11/perceptron.pdf), [Video](lec11/perceptron.mp4), [MATLAB](lec11/demo_perceptron.m)
+
+**Week 7**
+   11. Support Vector Machines 
+      - [Slides](lec12/svm.pdf)
 
 ----
 ## Support
