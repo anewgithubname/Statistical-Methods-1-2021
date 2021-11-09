@@ -80,8 +80,10 @@ Week 6
       - [Computing Lab](lec11/perceptron.pdf), [Video](lec11/perceptron.mp4), [MATLAB](lec11/demo_perceptron.m)
 
 **Week 7**
-   11. Support Vector Machines 
-      - [Slides](lec12/svm.pdf)
+
+   11.  Support Vector Machines 
+        - [Slides](lec12/svm.pdf)
+        - [Note](lec12/dual.pdf)
 
 ----
 ## Support
