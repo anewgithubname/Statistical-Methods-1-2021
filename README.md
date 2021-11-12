@@ -84,6 +84,7 @@ Week 6
    11.  Support Vector Machines 
         - [Slides](lec12/svm.pdf)
         - [Note](lec12/dual.pdf)
+        - [Computing Lab](lec12/cl.pdf)
 
 ----
 ## Support
