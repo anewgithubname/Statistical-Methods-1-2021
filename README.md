@@ -79,12 +79,17 @@ Week 6
       - [Slides](lec11/disc.pdf)
       - [Computing Lab](lec11/perceptron.pdf), [Video](lec11/perceptron.mp4), [MATLAB](lec11/demo_perceptron.m)
 
-**Week 7**
+Week 7
 
-   11.  Support Vector Machines 
+   11. Support Vector Machines 
         - [Slides](lec12/svm.pdf)
         - [Note](lec12/dual.pdf)
         - [Computing Lab](lec12/cl.pdf)
+
+**Week 8**
+
+   12. Probabilistic Graphical Models
+        - [Slides](lec13/pgm.pdf)
 
 ----
 ## Support
