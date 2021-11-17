@@ -90,6 +90,8 @@ Week 7
 
    12. Probabilistic Graphical Models
         - [Slides](lec13/pgm.pdf)
+        - [Computing Lab](lec13/cl.pdf)
+        - [Dataset](lec13/senate109.zip)
 
 ----
 ## Support
