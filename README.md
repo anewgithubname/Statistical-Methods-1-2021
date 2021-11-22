@@ -86,12 +86,16 @@ Week 7
         - [Note](lec12/dual.pdf)
         - [Computing Lab](lec12/cl.pdf)
 
-**Week 8**
+Week 8
 
    12. Probabilistic Graphical Models
         - [Slides](lec13/pgm.pdf)
         - [Computing Lab](lec13/cl.pdf)
         - [Dataset](lec13/senate109.zip)
+
+*Week 9**
+   13. Advanced Topics in Machine Learning (Title: Covariate Shift in Model Selection)
+   14. Advanced Topics in Machine Learning (Title: Deep neural networks and Gaussian processes)
 
 ----
 ## Support
