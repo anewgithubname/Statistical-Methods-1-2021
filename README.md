@@ -93,8 +93,10 @@ Week 8
         - [Computing Lab](lec13/cl.pdf)
         - [Dataset](lec13/senate109.zip)
 
-*Week 9**
+**Week 9**
+
    13. Advanced Topics in Machine Learning (Title: Covariate Shift in Model Selection)
+   
    14. Advanced Topics in Machine Learning (Title: Deep neural networks and Gaussian processes)
 
 ----
